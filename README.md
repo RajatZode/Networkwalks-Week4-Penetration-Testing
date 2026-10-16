@@ -66,7 +66,7 @@ The project followed these stages:
 ![WhatWeb results](Screenshots/03-whatweb.png)
 
 ### Screenshot 04 — HTTP Headers
-![HTTP headers](Screenshots/04-curl-headers.png)
+![HTTP headers](Screenshots/04-http-headers.png)
 
 ## 2. Web Enumeration
 
